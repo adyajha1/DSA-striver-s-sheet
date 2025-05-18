@@ -1,2 +1,2 @@
-# DSA-striver-s-sheet
+# DSA-striver-sheet
 getting back on solving DSA
